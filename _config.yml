@@ -3,7 +3,7 @@ description: A minimal and beautiful Jekyll theme best for writing and note-taki
 author: Shangzhi Huang
 avatar: /logo.png
 email: ngzhio@gmail.com
-url: https://gilblog.netlify.app/blog
+url: https://gilblog.netlify.app
 
 plugins:
   - jekyll-seo-tag
