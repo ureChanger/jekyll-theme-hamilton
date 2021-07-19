@@ -31,14 +31,14 @@ exclude:
 # Jekyll SEO Tag (Optional)
 # =========================
 twitter:
-  username: ngzhio
+  username: 3seclab
   card: summary
-logo: logo.png
+logo: https://user-images.githubusercontent.com/56578913/126107896-a41d3f50-1b32-4ac0-ae23-a6cd4de28ecb.png
 social:
-  name: Shangzhi Huang
+  name: 3초연구소
   links:
-    - https://twitter.com/ngzhio
-    - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
+    - https://twitter.com/3seclab
+    - https://instagram.com/3seclab.official
+    - https://github.com/ureChanger
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: ko
