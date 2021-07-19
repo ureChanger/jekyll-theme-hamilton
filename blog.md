@@ -1,5 +1,5 @@
 ---
-layout: archive-years
+layout: home
 title: Blog
 permalink: /blog/
 ---
