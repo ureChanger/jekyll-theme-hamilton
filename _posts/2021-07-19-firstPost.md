@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "This post demonstrates post content styles"
+title: "제발 됐으면 소원이 없겠다."
 categories: junk
 tags: [markdown, css, html]
 author:
